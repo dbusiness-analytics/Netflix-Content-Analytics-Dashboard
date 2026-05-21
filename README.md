@@ -2,9 +2,11 @@
 
 An interactive Power BI dashboard project focused on analyzing Netflix content trends, genre distribution, IMDb ratings, and platform growth over time.
 
+
 ## 📊 Dashboard Preview
 
 ![Dashboard](netflix-content-dashboard.png)
+
 
 ## 🛠 Tools & Skills Used
 - Power BI
@@ -23,6 +25,7 @@ This project involved analyzing Netflix’s content library to uncover trends in
 - Release year trends
 
 The dashboard was designed to provide interactive insights into Netflix’s streaming content strategy and audience-focused programming.
+
 
 ## 📈 Key Business Insights
 
@@ -62,7 +65,8 @@ Dashboard filtering allowed users to easily analyze patterns across:
 - Genres
 - Content Types
 - IMDb Ratings
-- 
+
+
 ## 📌 Conclusion
 
 This dashboard helped uncover Netflix’s content growth patterns, genre dominance, and audience-focused programming strategy through interactive visual analytics and trend exploration.
